@@ -61,12 +61,13 @@ Finally, this is NOT an MS Excel/spreadsheet exercise. Excel is an important dat
   
    b. Repeat question 4a, but this time make the query case sensitive.
 
-5. Find the sum of gpd_per_capita by year and the count of countries for each year that have non-null gdp_per_capita where (i) the year is before 2012 and (ii) the country has a null gdp_per_capita in 2012. Your result should have the columns:
+5. Find the sum of gdp_per_capita by year and the count of countries for each year that have non-null gdp_per_capita where (i) the year is before 2012 and (ii) the country has a null gdp_per_capita in 2012. Your result should have the columns:
    - year
    - country_count
    - total
 
 6. All in a single query, execute all of the steps below and provide the results as your final answer:
+   
    a. create a single list of all per_capita records for year 2009 that includes columns:
    - continent_name
    - country_code
@@ -85,4 +86,14 @@ Finally, this is NOT an MS Excel/spreadsheet exercise. Excel is an important dat
    - country_name
    - gdp_per_capita
    - running_total
+
+7. Find the country with the highest average gdp_per_capita for each continent for all years. Then compare your list to the following data set. Please describe any and all mistakes that you can find with the data set below. Include any code that you use to help detect these mistakes.
+   | rank | continent_name | country_code | country_name | avg_gdp_per_capita |
+   | --- | --- | --- | --- | --- |
+   | 1 | Africa | SYC | Seychelles | $11,348.66 |
+   | 1 | Asia | KWT | Kuwait | $43,192.49 |
+   | 1 | Europe | MCO | Monaco | $152,936.10 |
+   | 1 | North | America | BMU | Bermuda | $83,788.48 |
+   | 1 | Oceania | AUS | Australia | $47,070.39 |
+   | 1 | South America | CHL | Chile | $10,781.71 |
 
