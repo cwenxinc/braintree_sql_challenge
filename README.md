@@ -56,15 +56,14 @@ Finally, this is NOT an MS Excel/spreadsheet exercise. Excel is an important dat
    | --- | --- | --- |
    | 25.0% | 25.0% | 50.0% |
 
-4.
-   a. What is the count of countries and sum of their related gdp_per_capita values for the year 2007 where the string 'an' (case insensitive) appears anywhere in the country name?
-   b. Repeat question 4a, but this time make the query case sensitive.
+4a. What is the count of countries and sum of their related gdp_per_capita values for the year 2007 where the string 'an' (case insensitive) appears anywhere in the country name?
 
-6. Find the sum of gpd_per_capita by year and the count of countries for each year that have non-null gdp_per_capita where (i) the year is before 2012 and (ii) the country has a null gdp_per_capita in 2012. Your result should have the columns:
+4b. Repeat question 4a, but this time make the query case sensitive.
 
-  - year
-  - country_count
-  - total
+5. Find the sum of gpd_per_capita by year and the count of countries for each year that have non-null gdp_per_capita where (i) the year is before 2012 and (ii) the country has a null gdp_per_capita in 2012. Your result should have the columns:
+   - year
+   - country_count
+   - total
 
 6. All in a single query, execute all of the steps below and provide the results as your final answer:
 
