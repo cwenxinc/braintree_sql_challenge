@@ -1,0 +1,7 @@
+|rank|continent_name|country_code_ref|country_code_result|country_name_ref|country_name_result|avg_gdp_per_capita_ref|avg_gdp_per_capita_result|
+|----|--------------|----------------|-------------------|----------------|-------------------|----------------------|-------------------------|
+|1   |Africa        |SYC             |GNQ                |Seychelles      |Equatorial Guinea  |$11348.66             |$17955.72                |
+|1   |Asia          |KWT             |QAT                |Kuwait          |Qatar              |$43192.49             |$70567.96                |
+|1   |Europe        |MCO             |MCO                |Monaco          |Monaco             |$152936.10            |$151421.89               |
+|1   |North America |BMU             |BMU                |Bermuda         |Bermuda            |$83788.48             |$84634.83                |
+|1   |Oceania       |AUS             |AUS                |Australia       |Australia          |$47070.39             |$46147.45                |

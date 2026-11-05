@@ -1,0 +1,8 @@
+|continent_name|country_code|country_name|gdp_per_capita|running_total|
+|--------------|------------|------------|--------------|-------------|
+|Africa        |LBY         |Libya       |$10455.57     |$70227.16    |
+|Asia          |KWT         |Kuwait      |$37160.54     |$73591.81    |
+|Europe        |CHE         |Switzerland |$65790.07     |$119051.78   |
+|North America |ABW         |Aruba       |$24639.94     |$84504.67    |
+|Oceania       |NZL         |New Zealand |$27474.33     |$84623.92    |
+|South America |ECU         |Ecuador     |$4236.78      |$72315.82    |
