@@ -91,5 +91,3 @@ WHERE
 	t1.country_code <> t2.country_code OR
 	t1.country_name <> t2.country_name OR
 	t1.avg_gdp_per_capita <> t2.avg_gdp_per_capita; -- South America is the only matching row so its record is excluded as expected
-	
-	
