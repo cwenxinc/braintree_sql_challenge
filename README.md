@@ -93,7 +93,6 @@ Finally, this is NOT an MS Excel/spreadsheet exercise. Excel is an important dat
    | 1 | Africa | SYC | Seychelles | $11,348.66 |
    | 1 | Asia | KWT | Kuwait | $43,192.49 |
    | 1 | Europe | MCO | Monaco | $152,936.10 |
-   | 1 | North | America | BMU | Bermuda | $83,788.48 |
+   | 1 | North America | BMU | Bermuda | $83,788.48 |
    | 1 | Oceania | AUS | Australia | $47,070.39 |
    | 1 | South America | CHL | Chile | $10,781.71 |
-
