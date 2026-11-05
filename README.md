@@ -41,17 +41,15 @@ Finally, this is NOT an MS Excel/spreadsheet exercise. Excel is an important dat
 
    - For all countries that have multiple rows in the continent_map table, delete all multiple records leaving only the 1 record per country. The record that you keep should be the first one when sorted by the continent_code alphabetically ascending. Provide the query/ies and explanation of step(s) that you follow to delete these records.
 
-3. List the countries ranked 10-12 in each continent by the percent of year-over-year growth descending from 2011 to 2012.
+2. List the countries ranked 10-12 in each continent by the percent of year-over-year growth descending from 2011 to 2012.
+   The percent of growth should be calculated as: ((2012 gdp - 2011 gdp) / 2011 gdp)
 
-  The percent of growth should be calculated as: ((2012 gdp - 2011 gdp) / 2011 gdp)
-
-  The list should include the columns:
-
-  - rank
-  - continent_name
-  - country_code
-  - country_name
-  - growth_percent
+   The list should include the columns:
+   - rank
+   - continent_name
+   - country_code
+   - country_name
+   - growth_percent
 
 3. For the year 2012, create a 3 column, 1 row report showing the percent share of gdp_per_capita for the following regions:
 
